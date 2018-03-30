@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <p className="App-intro">
-          办理东航金卡， 有意者请联系 tel: 1 5 9 0 0 0 0 1 2 4 6
+          办理东航金卡， 有意者请联系 tel: 1 5 9 0 0 2 9 1 2 4 6
         </p>
       </div>
     );
